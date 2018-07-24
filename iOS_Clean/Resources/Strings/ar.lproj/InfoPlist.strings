@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Kia
+
+  Created by Magdy Zamel on 9/18/17.
+  Copyright © 2017 Magdy Zamel. All rights reserved.
+*/
+
+NSCameraUsageDescription = "نحتاج الكاميرا لرفع الصور";
+NSPhotoLibraryUsageDescription = "نحتاج الميديا لرفع الصور";

@@ -1,0 +1,23 @@
+/*
+ Localizable.strings
+iOS_Clean
+
+
+ Created by Magdy Zamel on 7/9/18.
+ Copyright © 2017 Magdy Zamel. All rights reserved.
+ */
+
+
+//MARK : Login
+"loginEmailField" = "Email";
+"loginPasswordField" = "Password";
+"loginLoginButton" = "Sign in";
+"loginForgetPasswordButton" = "Forgot password ?";
+"loginLoginTitle" = "Sign in";
+
+//MARK:- messages
+"okMessage" = "Ok";
+
+//MARK:- Erorrs
+"networkErrorTitle" = "No internet connection";
+

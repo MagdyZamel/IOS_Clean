@@ -1,0 +1,16 @@
+
+Pods/
+
+\.DS_Store
+
+Podfile\.lock
+
+iOS_Clean\.xcodeproj/project\.xcworkspace/xcuserdata/
+
+iOS_Clean\.xcodeproj/project\.xcworkspace/xcshareddata/
+
+iOS_Clean\.xcodeproj/xcuserdata/
+
+iOS_Clean\.xcworkspace/xcshareddata/
+
+iOS_Clean\.xcworkspace/xcuserdata/

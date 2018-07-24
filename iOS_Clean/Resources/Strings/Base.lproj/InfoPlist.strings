@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+ iOS_Clean
+
+  Created by Magdy Zamel on 9/18/17.
+  Copyright © 2017 Magdy Zamel. All rights reserved.
+*/
+
+NSCameraUsageDescription = "Need camera access to upload images";
+NSPhotoLibraryUsageDescription = "Need library access to upload images";
